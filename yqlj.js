@@ -1,0 +1,23 @@
+document.writeln("<div class=\"yqlj\">");
+document.writeln("    <h2><span>友情链接<\/span><\/h2>");
+document.writeln("    <ul>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("      <li><a href=\"#\" target=\"_blank\">中国教育网<\/a><\/li>");
+document.writeln("    <\/ul>");
+document.writeln("  <\/div>")
